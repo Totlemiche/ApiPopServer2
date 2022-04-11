@@ -1,0 +1,12 @@
+C:\Users\tomde\source\repos\WebPopulation\CityOfFrance.Api\obj\Debug\net5.0\CityOfFrance.Api.csproj.AssemblyReference.cache
+C:\Users\tomde\source\repos\WebPopulation\CityOfFrance.Api\obj\Debug\net5.0\CityOfFrance.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomde\source\repos\WebPopulation\CityOfFrance.Api\obj\Debug\net5.0\CityOfFrance.Api.AssemblyInfoInputs.cache
+C:\Users\tomde\source\repos\WebPopulation\CityOfFrance.Api\obj\Debug\net5.0\CityOfFrance.Api.AssemblyInfo.cs
+C:\Users\tomde\source\repos\WebPopulation\CityOfFrance.Api\obj\Debug\net5.0\CityOfFrance.Api.csproj.CoreCompileInputs.cache
+C:\Users\tomde\source\repos\WebPopulation\CityOfFrance.Api\bin\Debug\net5.0\CityOfFrance.Api.deps.json
+C:\Users\tomde\source\repos\WebPopulation\CityOfFrance.Api\bin\Debug\net5.0\CityOfFrance.Api.dll
+C:\Users\tomde\source\repos\WebPopulation\CityOfFrance.Api\bin\Debug\net5.0\CityOfFrance.Api.pdb
+C:\Users\tomde\source\repos\WebPopulation\CityOfFrance.Api\obj\Debug\net5.0\CityOfFrance.Api.dll
+C:\Users\tomde\source\repos\WebPopulation\CityOfFrance.Api\obj\Debug\net5.0\refint\CityOfFrance.Api.dll
+C:\Users\tomde\source\repos\WebPopulation\CityOfFrance.Api\obj\Debug\net5.0\CityOfFrance.Api.pdb
+C:\Users\tomde\source\repos\WebPopulation\CityOfFrance.Api\obj\Debug\net5.0\ref\CityOfFrance.Api.dll
